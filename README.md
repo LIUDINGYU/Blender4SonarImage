@@ -1,7 +1,7 @@
 # Blender4SonarImage
 Blender layout and python script for sonar image generation based on Blender. <br>
 Version: Blender 2.80, Python 3.7 <br>
-All the projects are created and supported by 
+All the projects are created and supported by [Dingyu Liu](https://github.com/LIUDINGYU) and [Yusheng Wang](https://github.com/sollynoay).
 # Dependencies
 - OpenEXR <br>
 Though it's a cross-platform software, we mainly run Blender on Windows and you can find the OpenEXR version we use [here](https://github.com/LIUDINGYU/Blender4SonarImage/blob/master/OpenEXR-1.3.2-cp37-cp37m-win_amd64.whl) (which only supports Windows). Other versions can be found [here](https://packages.ubuntu.com/search?keywords=openexr) and other sources.<br>
